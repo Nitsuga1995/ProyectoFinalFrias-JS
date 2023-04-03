@@ -1,0 +1,392 @@
+[
+    {
+        "id": "Fertilizantes-insecticidas-01",
+        "titulo": "Babosil cebo",
+        "imagen": "./img/01. Fertilizantes y insecticidas/01.png",
+        "categoria": {
+            "nombre": "Fertilizantes y insecticidas",
+            "id": "fertilizantes y insecticidas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "Fertilizantes-insecticidas-02",
+        "titulo": "Diatomeo talquera",
+        "imagen": "./img/01. Fertilizantes y insecticidas/02.jpg",
+        "categoria": {
+            "nombre": "Fertilizantes y insecticidas",
+            "id": "fertilizantes y insecticidas"
+        },
+        "precio": 1050
+    },
+    {
+        "id": "Fertilizantes-insecticidas-03",
+        "titulo": "Micorrizas",
+        "imagen": "./img/01. Fertilizantes y insecticidas/03.jpg",
+        "categoria": {
+            "nombre": "Fertilizantes y insecticidas",
+            "id": "fertilizantes y insecticidas"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "Fertilizantes-insecticidas-04",
+        "titulo": "Neem puro",
+        "imagen": "./img/01. Fertilizantes y insecticidas/04.jpg",
+        "categoria": {
+            "nombre": "Fertilizantes y insecticidas",
+            "id": "fertilizantes y insecticidas"
+        },
+        "precio": 2030
+    },
+    {
+        "id": "Enmiendas-sustratos-01",
+        "titulo": "Chips 10 dm3",
+        "imagen": "./img/02. Enmiendas y sustratos/01.jpg",
+        "categoria": {
+            "nombre": "Enmiendas y sustratos",
+            "id": "enmiendas y sustratos"
+        },
+        "precio": 780
+    },
+    {
+        "id": "Enmiendas-sustratos-02",
+        "titulo": "Compost 10 dm3",
+        "imagen": "./img/02. Enmiendas y sustratos/02.jpg",
+        "categoria": {
+            "nombre": "Enmiendas y sustratos",
+            "id": "enmiendas y sustratos"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "Enmiendas-sustratos-03",
+        "titulo": "Humus de lombriz 5 dm3",
+        "imagen": "./img/02. Enmiendas y sustratos/03.jpg",
+        "categoria": {
+            "nombre": "Enmiendas y sustratos",
+            "id": "enmiendas y sustratos"
+        },
+        "precio": 780
+    },
+    {
+        "id": "Enmiendas-sustratos-04",
+        "titulo": "Perlita 5 dm3",
+        "imagen": "./img/02. Enmiendas y sustratos/04.webp",
+        "categoria": {
+            "nombre": "Enmiendas y sustratos",
+            "id": "enmiendas y sustratos"
+        },
+        "precio": 750
+    },
+    {
+        "id": "Macetas-01",
+        "titulo": "Bols N° 18",
+        "imagen": "./img/03. Macetas/01.jpg",
+        "categoria": {
+            "nombre": "Macetas",
+            "id": "macetas"
+        },
+        "precio": 650
+    },
+    {
+        "id": "Macetas-02",
+        "titulo": "Bols N° 15 vega",
+        "imagen": "./img/03. Macetas/02.jpg",
+        "categoria": {
+            "nombre": "Macetas",
+            "id": "macetas"
+        },
+        "precio": 460
+    },
+    {
+        "id": "Macetas-03",
+        "titulo": "Bols N° 21 vega",
+        "imagen": "./img/03. Macetas/03.jpeg",
+        "categoria": {
+            "nombre": "Macetas",
+            "id": "macetas"
+        },
+        "precio": 800
+    },
+    {
+        "id": "Macetas-04",
+        "titulo": "ganchos de color",
+        "imagen": "./img/03. Macetas/04.jpg",
+        "categoria": {
+            "nombre": "Macetas",
+            "id": "macetas"
+        },
+        "precio": 250
+    },
+    {
+        "id": "Macetas-05",
+        "titulo": "Maceta rocio N° 14",
+        "imagen": "./img/03. Macetas/05.jpg",
+        "categoria": {
+            "nombre": "Macetas",
+            "id": "macetas"
+        },
+        "precio": 530
+    },
+    {
+        "id": "Macetas-06",
+        "titulo": "Maceta rocio N° 21",
+        "imagen": "./img/03. Macetas/06.jpeg",
+        "categoria": {
+            "nombre": "Macetas",
+            "id": "macetas"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "Plantas-de-interior-01",
+        "titulo": "Aglaonema",
+        "imagen": "./img/04. Plantas de interior/01.webp",
+        "categoria": {
+            "nombre": "Plantas de interior",
+            "id": "plantas de interior"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "Plantas-de-interior-02",
+        "titulo": "Alegría del hojar m12",
+        "imagen": "./img/04. Plantas de interior/02.jpeg",
+        "categoria": {
+            "nombre": "Plantas de interior",
+            "id": "plantas de interior"
+        },
+        "precio": 860
+    },
+    {
+        "id": "Plantas-de-interior-03",
+        "titulo": "Aloe vera",
+        "imagen": "./img/04. Plantas de interior/03.webp",
+        "categoria": {
+            "nombre": "Plantas de interior",
+            "id": "plantas de interior"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "Plantas-de-interior-04",
+        "titulo": "Anturium",
+        "imagen": "./img/04. Plantas de interior/04.webp",
+        "categoria": {
+            "nombre": "Plantas de interior",
+            "id": "plantas de interior"
+        },
+        "precio": 5800
+    },
+    {
+        "id": "Plantas-de-interior-05",
+        "titulo": "Arbol de jade",
+        "imagen": "./img/04. Plantas de interior/05.jpeg",
+        "categoria": {
+            "nombre": "Plantas de interior",
+            "id": "plantas de interior"
+        },
+        "precio": 900
+    },
+    {
+        "id": "Plantas-de-interior-06",
+        "titulo": "Azalea doble cretonas",
+        "imagen": "./img/04. Plantas de interior/06.jpg",
+        "categoria": {
+            "nombre": "Plantas de interior",
+            "id": "plantas de interior"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "Plantas-de-interior-07",
+        "titulo": "Culandrillo",
+        "imagen": "./img/04. Plantas de interior/07.jpg",
+        "categoria": {
+            "nombre": "Plantas de interior",
+            "id": "plantas de interior"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "Cactus-y-suculentas-01",
+        "titulo": "Cactus chicos",
+        "imagen": "./img/05. Cactus y suculentas/01.jpeg",
+        "categoria": {
+            "nombre": "Cactus y suculentas",
+            "id": "cactus y suculentas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "Cactus-y-suculentas-02",
+        "titulo": "Cactus medianos",
+        "imagen": "./img/05. Cactus y suculentas/02.jpg",
+        "categoria": {
+            "nombre": "Cactus y suculentas",
+            "id": "cactus y suculentas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "Cactus-y-suculentas-03",
+        "titulo": "Cactus grandes",
+        "imagen": "./img/05. Cactus y suculentas/03.jpg",
+        "categoria": {
+            "nombre": "Cactus y suculentas",
+            "id": "cactus y suculentas"
+        },
+        "precio": 8900
+    },
+    {
+        "id": "Cactus-y-suculentas-04",
+        "titulo": "Suculentas",
+        "imagen": "./img/05. Cactus y suculentas/04.jpg",
+        "categoria": {
+            "nombre": "Cactus y suculentas",
+            "id": "cactus y suculentas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "Cactus-y-suculentas-05",
+        "titulo": "Haworthia",
+        "imagen": "./img/05. Cactus y suculentas/05.png",
+        "categoria": {
+            "nombre": "Cactus y suculentas",
+            "id": "cactus y suculentas"
+        },
+        "precio": 650
+    },
+    {
+        "id": "Cactus-y-suculentas-06",
+        "titulo": "Collar de jade",
+        "imagen": "./img/05. Cactus y suculentas/06.jpg",
+        "categoria": {
+            "nombre": "Cactus y suculentas",
+            "id": "cactus y suculentas"
+        },
+        "precio": 700
+    },
+    {
+        "id": "Plantines-florales-exterior-01",
+        "titulo": "Aleli plantin",
+        "imagen": "./img/06. Plantines florales - exterior/01.jpg",
+        "categoria": {
+            "nombre": "Plantines florales - exterior",
+            "id": "plantines florales - exterior"
+        },
+        "precio": 300
+    },
+    {
+        "id": "Plantines-florales-exterior-02",
+        "titulo": "Amapolas",
+        "imagen": "./img/06. Plantines florales - exterior/02.jpg",
+        "categoria": {
+            "nombre": "Plantines florales - exterior",
+            "id": "plantines florales - exterior"
+        },
+        "precio": 300
+    },
+    {
+        "id": "Plantines-florales-exterior-03",
+        "titulo": "Caléndulas",
+        "imagen": "./img/06. Plantines florales - exterior/03.jpg",
+        "categoria": {
+            "nombre": "Plantines florales - exterior",
+            "id": "plantines florales - exterior"
+        },
+        "precio": 500
+    },
+    {
+        "id": "Plantines-florales-exterior-04",
+        "titulo": "Camelia japónica",
+        "imagen": "./img/06. Plantines florales - exterior/04.jpg",
+        "categoria": {
+            "nombre": "Plantines florales - exterior",
+            "id": "plantines florales - exterior"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "Plantines-florales-exterior-05",
+        "titulo": "Clavelina",
+        "imagen": "./img/06. Plantines florales - exterior/05.jpg",
+        "categoria": {
+            "nombre": "Plantines florales - exterior",
+            "id": "plantines florales - exterior"
+        },
+        "precio": 300
+    },
+    {
+        "id": "Plantines-florales-exterior-06",
+        "titulo": "Crataegus",
+        "imagen": "./img/06. Plantines florales - exterior/06.jpg",
+        "categoria": {
+            "nombre": "Plantines florales - exterior",
+            "id": "plantines florales - exterior"
+        },
+        "precio": 790
+    },
+    {
+        "id": "Plantines-florales-exterior-07",
+        "titulo": "Crisantemo",
+        "imagen": "./img/06. Plantines florales - exterior/07.webp",
+        "categoria": {
+            "nombre": "Plantines florales - exterior",
+            "id": "plantines florales - exterior"
+        },
+        "precio": 2100
+    },
+    {
+        "id": "Plantines-florales-exterior-08",
+        "titulo": "Lavanda",
+        "imagen": "./img/06. Plantines florales - exterior/08.jpg",
+        "categoria": {
+            "nombre": "Plantines florales - exterior",
+            "id": "plantines florales - exterior"
+        },
+        "precio": 2100
+    },
+    {
+        "id": "Plantines-florales-exterior-09",
+        "titulo": "Muerdago",
+        "imagen": "./img/06. Plantines florales - exterior/09.jpg",
+        "categoria": {
+            "nombre": "Plantines florales - exterior",
+            "id": "plantines florales - exterior"
+        },
+        "precio": 5800
+    },
+    {
+        "id": "Semillas-01",
+        "titulo": "Caléndula",
+        "imagen": "./img/07. Semillas/01.jpg",
+        "categoria": {
+            "nombre": "Semillas",
+            "id": "semillas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "Semillas-02",
+        "titulo": "Lupinos",
+        "imagen": "./img/07. Semillas/02.jpg",
+        "categoria": {
+            "nombre": "Semillas",
+            "id": "semillas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "Semillas-03",
+        "titulo": "Retamas",
+        "imagen": "./img/07. Semillas/03.jpg",
+        "categoria": {
+            "nombre": "Semillas",
+            "id": "semillas"
+        },
+        "precio": 400
+    }
+]

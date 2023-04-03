@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Description -->
+    <meta name="description" content="Mi vergel austral es tu vivero de confianza en la provincia de tierra del fuego">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="img/Mi vergel austral.png">
+    <!-- Toastify -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <!-- CSS -->
+    <link rel="stylesheet" href="./css/style.css">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <title>Mi Vergel Austral | Tu vivero de confianza</title>
+</head>
+<body>
+    <!-- Estructura del sitio -->
+    <div class="wrapper">
+        <!-- Zona navegable -->
+        <aside>
+            <header>
+                <h1 class="logo">Mi Vergel Austral</h1>
+                <img class="logotipo" src="./img/Mi vergel austral.png" alt="Logo">
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-flower3"></i>Todos los productos</button></li>
+                    <li>
+                        <button id="fertilizantes y insecticidas" class="boton-menu boton-categoria"><i class="bi bi-flower3"></i>Fertilizantes y insecticidas</button></li>
+                    <li>
+                        <button id="enmiendas y sustratos" class="boton-menu boton-categoria"><i class="bi bi-flower3"></i>Enmiendas y sustratos</button></li>
+                    <li>
+                        <button id="macetas" class="boton-menu boton-categoria"><i class="bi bi-flower3"></i>Macetas</button></li>
+                    <li>
+                        <button id="plantas de interior" class="boton-menu boton-categoria"><i class="bi bi-flower3"></i>Plantas de interior</button></li>
+                    <li>
+                        <button id="cactus y suculentas" class="boton-menu boton-categoria"><i class="bi bi-flower3"></i>Cactus y suculentas</button></li>
+                    <li>
+                        <button id="plantines florales - exterior" class="boton-menu boton-categoria"><i class="bi bi-flower3"></i>Plantines florales - exterior</button></li>
+                    <li>
+                        <button id="semillas"class="boton-menu boton-categoria"><i class="bi bi-flower3"></i>Semillas</button></li>
+                    <li>
+                        <a class="boton-menu boton-carrito" href="carrito.html">
+                            <i class="bi bi-cart"></i>Carrito <span id="numerito" class="numero">0</span></a></li>
+                </ul>
+            </nav>
+            <!-- Footer y Redes Sociales -->
+            <footer>
+                <ul>
+                    <li>
+                        <i class="bi bi-facebook"></i><a href="https://www.facebook.com/adrianaushuaiatdf"> Facebook</a>
+                    </li>
+                    <li>
+                        <i class="bi bi-instagram"></i><a href="https://www.instagram.com/mivergelaustral/"> Instagram</a>
+                    </li>
+                </ul>
+                <p class="texto-footer">
+                    © 2023 Agustin Frias
+                </p>
+            </footer>
+        </aside>
+        <!-- Contenido del E-Commerce -->
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+            <div id="contenedor-productos" class="contenedor-productos">
+        <!-- Importado de productos desde JS -->
+            </div>
+        </main>
+    </div>
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/main.js"></script>
+</body>
+</html>
