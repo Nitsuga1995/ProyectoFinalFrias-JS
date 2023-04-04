@@ -71,7 +71,7 @@ function actualizarBotonesEliminar() {
 
 // Función para borrar del carrito 
 function eliminarDelCarrito (e){
-// Notificación de borrado de un producto del carrito
+    // Notificación de borrado de un producto del carrito
     Toastify({
         text: "Producto eliminado",
         duration: 3000,
@@ -95,7 +95,14 @@ function eliminarDelCarrito (e){
     const idBoton = e.currentTarget.id;
     const index = productosEnCarrito.findIndex(producto => producto.id === idBoton);
 
-    productosEnCarrito.splice(index, 1);
+    if (productosEnCarrito[index].cantidad > 1) {
+        // Restar 1 de la cantidad si hay más de 1 producto
+        productosEnCarrito[index].cantidad--;
+    } else {
+        // Eliminar el producto completamente si hay solo 1 producto
+        productosEnCarrito.splice(index, 1);
+    }
+
     cargarProductosCarrito();
 
     localStorage.setItem("productos-en-carrito", JSON.stringify(productosEnCarrito));
