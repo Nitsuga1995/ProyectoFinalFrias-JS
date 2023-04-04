@@ -139,7 +139,7 @@ botonComprar.addEventListener ("click", comprarCarrito);
 function comprarCarrito () {
 // Pop Up confirmación de la compra
     Swal.fire({
-        position: 'top-end',
+        position: 'center',
         icon: 'success',
         title: 'Su compra ha sido exitosa!',
         showConfirmButton: false,
